@@ -32,3 +32,16 @@ clear,pwd,ls,etc
 ===========================================================================================================
 Configuration tommorrow cheddam bye bye .......
 
+git cofiguration
+git config --global user.name "username"
+git config --global user.email "email"
+git --list
+
+git commands
+ls
+clear
+git clone link
+git status 
+
+
+
